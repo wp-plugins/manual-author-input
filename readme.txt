@@ -1,5 +1,5 @@
 === Manual Author Input ===
-Contributors: hughwillfayle, bueltge, inpsyde
+Contributors: hughwillfayle, Bueltge, inpsyde
 Donate Link: http://inpsyde.com
 Tags: Author Input, Guest Author, Guest Input
 Requires at least: 3.1
